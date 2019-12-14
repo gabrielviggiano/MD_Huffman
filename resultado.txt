@@ -1,0 +1,3 @@
+Palavra Inserida:abracadabra!
+Palavra Comprimida: 1001010100011000010010101011
+Palavra Descomprimida: abracadabra!
