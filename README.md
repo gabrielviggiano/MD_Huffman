@@ -1,2 +1,24 @@
-# MD_Huffman
-Repositório para o algoritmo de Huffman desenvolvido na disciplina de Matemática Discreta 2019/2
+# Algoritmo de Compressão Huffman
+
+### Alunos:
+Gabriel Viggiano Fonseca, Gabrielle Azevedo Duda e Romildo~
+
+# Explicação Teórica
+
+
+# Problema Proposto
+
+
+# Implementação
+
+
+### Trechos mais Importantes
+
+
+# Resultados e Análise
+
+
+# Bibliografia
+
+
+
