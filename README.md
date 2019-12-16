@@ -12,18 +12,24 @@ O resultado do algoritmo de Huffman pode ser visto como uma tabela de códigos d
 
 
 # Problema Proposto
-O problema proposto consiste em implementar o algoritmo de Huffman aqui descrito em alguma linguagem de programação. O algoritmo deverá receber uma palavra como entrada (texto) e realizar os seguintes passos:
-  1 – Pegar o texto e implementar um algoritmo que retorna a frequência dos
-  caracteres.
-  2 - Construir a tabela de codificação;
-  3 – Codificar um texto como exemplo;
-  4 – Descodificar o texto.
+O problema proposto consiste em implementar o algoritmo de Huffman aqui descrito em alguma linguagem de programação. O algoritmo deverá receber uma palavra como entrada (texto) e realizar os seguintes passos: <br>
+  1 – Pegar o texto e implementar um algoritmo que retorna a frequência dos caracteres.<br>
+  2 - Construir a tabela de codificação; <br>
+  3 – Codificar um texto como exemplo; <br>
+  4 – Descodificar o texto. <br>
 
 # Implementação
-
+Para a implementação utilizamos a linguagem Python, por possuir ótimos bibliotecas de apoio.
 
 ### Trechos mais Importantes
+Classe Nó:
 
+
+
+Classe Lista_Nos:
+
+
+Classe ArvoreHuffman:
 
 # Resultados e Análise
 
