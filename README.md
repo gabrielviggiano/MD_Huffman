@@ -8,7 +8,7 @@ A codificação de Huffman é um método de compressão que usa as probabilidade
 
 Uma árvore binária completa, chamada de árvore de Huffman é construída recursivamente a partir da junção dos dois símbolos de menor probabilidade, que são então somados em símbolos auxiliares e estes símbolos auxiliares recolocados no conjunto de símbolos. O processo termina quando todos os símbolos forem unidos em símbolos auxiliares, formando uma árvore binária. A árvore é então percorrida, atribuindo-se valores binários de 1 ou 0 para cada aresta, e os códigos são gerados a partir desse percurso.
 
-O resultado do algoritmo de Huffman pode ser visto como uma tabela de códigos de tamanho variável para codificar um símbolo da fonte. Assim como em outros métodos de codificação, os símbolos mais comuns são geralmente representados usando-se menos dígitos que os símbolos que aparecem com menos frequência.
+O resultado do algoritmo de Huffman pode ser visto como uma tabela de códigos de tamanho variável para codificar um símbolo da fonte. Assim como em outros métodos de compressão, os símbolos mais comuns são geralmente representados usando-se menos dígitos que os símbolos que aparecem com menos frequência.
 
 
 # Problema Proposto
@@ -19,7 +19,7 @@ O problema proposto consiste em implementar o algoritmo de Huffman aqui descrito
   4 – Descodificar o texto. <br>
 
 # Implementação
-Para a implementação utilizamos a linguagem Python, por possuir ótimos bibliotecas de apoio.
+Para a implementação utilizamos a linguagem Python, por possuir de maneira mais acessível bibliotecas de apoio.
 
 ### Trechos mais Importantes
 <b>Classe Nó:</b>
