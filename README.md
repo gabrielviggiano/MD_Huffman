@@ -61,5 +61,13 @@ Para a implementação utilizamos a linguagem Python, por possuir ótimos biblio
 
 # Bibliografia
 
+https://pt.wikipedia.org/wiki/Codifica%C3%A7%C3%A3o_de_Huffman
+
+https://docs.python.org/2/library/collections.html
+
+https://sites.google.com/site/tecprojalgoritmos/problemas/arvore-de-huffman
+
+http://professor.ufabc.edu.br/~francisco.massetto/ni/Aula6.pdf
+
 
 
