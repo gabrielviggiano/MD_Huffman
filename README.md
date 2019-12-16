@@ -22,12 +22,12 @@ O problema proposto consiste em implementar o algoritmo de Huffman aqui descrito
 Para a implementação utilizamos a linguagem Python, por possuir ótimos bibliotecas de apoio.
 
 ### Trechos mais Importantes
-Classe Nó:
+<b>Classe Nó:</b>
 
 ![Alt text](https://github.com/gabrielviggiano/MD_Huffman/blob/master/classeNo.png?raw=true "classeNo")<br>
 
 
-Classe Lista_Nos:
+<b>Classe Lista_Nos:</b>
 
 * Funções que inserem a raiz e os elementos:
 ![Alt text](https://github.com/gabrielviggiano/MD_Huffman/blob/master/insereraizelemento.png?raw=true "insere")<br>
@@ -37,14 +37,17 @@ Classe Lista_Nos:
 ![Alt text](https://github.com/gabrielviggiano/MD_Huffman/blob/master/criarLista.png?raw=true "criarLista")<br>
 
 * Função que cria a árvore
+
 ![Alt text](https://github.com/gabrielviggiano/MD_Huffman/blob/master/criarArvore.png?raw=true "criarArvore")<br>
 
+<b> Classe ArvoreHuffman: </b>
 
-Classe ArvoreHuffman:
 * Função que codifica
+
 ![Alt text](https://github.com/gabrielviggiano/MD_Huffman/blob/master/codificador.png?raw=true "criarArvore")<br>
 
 * Função que descodifica
+
 ![Alt text](https://github.com/gabrielviggiano/MD_Huffman/blob/master/decodificador.png?raw=true "criarArvore")<br>
 
 # Resultados e Análise
