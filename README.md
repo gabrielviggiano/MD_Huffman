@@ -24,6 +24,8 @@ Para a implementação utilizamos a linguagem Python, por possuir ótimos biblio
 ### Trechos mais Importantes
 Classe Nó:
 
+![Alt text](https://github.com/gabrielviggiano/MD_Huffman/blob/master/classeNo.png?raw=true "classeNo")<br>
+
 
 
 Classe Lista_Nos:
