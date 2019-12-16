@@ -27,14 +27,30 @@ Classe Nó:
 ![Alt text](https://github.com/gabrielviggiano/MD_Huffman/blob/master/classeNo.png?raw=true "classeNo")<br>
 
 
-
 Classe Lista_Nos:
+
+* Funções que inserem a raiz e os elementos:
+![Alt text](https://github.com/gabrielviggiano/MD_Huffman/blob/master/insereraizelemento.png?raw=true "insere")<br>
+
+* Função que cria lista
+
+![Alt text](https://github.com/gabrielviggiano/MD_Huffman/blob/master/criarLista.png?raw=true "criarLista")<br>
+
+* Função que cria a árvore
+![Alt text](https://github.com/gabrielviggiano/MD_Huffman/blob/master/criarArvore.png?raw=true "criarArvore")<br>
 
 
 Classe ArvoreHuffman:
+* Função que codifica
+![Alt text](https://github.com/gabrielviggiano/MD_Huffman/blob/master/codificador.png?raw=true "criarArvore")<br>
+
+* Função que descodifica
+![Alt text](https://github.com/gabrielviggiano/MD_Huffman/blob/master/decodificador.png?raw=true "criarArvore")<br>
 
 # Resultados e Análise
+* Saída no terminal
 
+![Alt text](https://github.com/gabrielviggiano/MD_Huffman/blob/master/saida_huffmann.png?raw=true "criarArvore")<br>
 
 # Bibliografia
 
