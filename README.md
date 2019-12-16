@@ -1,7 +1,7 @@
 # Algoritmo de Compressão Huffman
 
 ### Alunos:
-Gabriel Viggiano Fonseca, Gabrielle Azevedo Duda e Romildo~
+Gabriel Viggiano Fonseca, Gabrielle Azevedo Duda e Romildo Costa
 
 # Explicação Teórica
 A codificação de Huffman é um método de compressão que usa as probabilidades de ocorrência dos símbolos no conjunto de dados a ser comprimido para determinar códigos de tamanho variável para cada símbolo. Ele foi desenvolvido em 1952 por David A. Huffman que era, na época, estudante de doutorado no MIT, e foi publicado no artigo "A Method for the Construction of Minimum-Redundancy Codes".
@@ -10,8 +10,14 @@ Uma árvore binária completa, chamada de árvore de Huffman é construída recu
 
 O resultado do algoritmo de Huffman pode ser visto como uma tabela de códigos de tamanho variável para codificar um símbolo da fonte. Assim como em outros métodos de codificação, os símbolos mais comuns são geralmente representados usando-se menos dígitos que os símbolos que aparecem com menos frequência.
 
-# Problema Proposto
 
+# Problema Proposto
+O problema proposto consiste em implementar o algoritmo de Huffman aqui descrito em alguma linguagem de programação. O algoritmo deverá receber uma palavra como entrada (texto) e realizar os seguintes passos:
+  1 – Pegar o texto e implementar um algoritmo que retorna a frequência dos
+  caracteres.
+  2 - Construir a tabela de codificação;
+  3 – Codificar um texto como exemplo;
+  4 – Descodificar o texto.
 
 # Implementação
 
