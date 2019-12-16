@@ -50,6 +50,10 @@ Para a implementação utilizamos a linguagem Python, por possuir ótimos biblio
 
 ![Alt text](https://github.com/gabrielviggiano/MD_Huffman/blob/master/decodificador.png?raw=true "criarArvore")<br>
 
+* Função que gera a tabela de Huffman:
+
+![Alt text](https://github.com/gabrielviggiano/MD_Huffman/blob/master/tabelinha.png?raw=true "criarArvore")<br>
+
 # Resultados e Análise
 * Saída no terminal
 
